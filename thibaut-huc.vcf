@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Huc;Thibaut;;;
+FN:Thibaut Huc
+ORG:IFEC Toulouse
+TITLE:Interne en chiropraxie
+TEL;TYPE=CELL:+33649231371
+EMAIL;TYPE=WORK:huc.thibaut@ifecetud.com
+ADR;TYPE=WORK:;;5 impasse de la Flambère;Toulouse;;31300;France
+NOTE:Consultation chiropratique - Purpan
+END:VCARD
